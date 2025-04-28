@@ -14,7 +14,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://your-repo-url.git
+git clone https://github.com/Petukhov-Sergey/Vacancy-manager
 cd vacancy_manager
 ```
 ### 2. Настройка .env
